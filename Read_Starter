@@ -8,4 +8,8 @@ Run: com.springboot.CRUDdemo> with java application
 On browser navigate to: http://localhost:8080/api/employees/
 
 Here added UNIT Testing inside: srs/test/java
+==============================================
+
+Added eureka client dependency. Run the Eureka-Serive-registration app
+http://localhost:8761/ 
 
