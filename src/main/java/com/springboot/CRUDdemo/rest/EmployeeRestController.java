@@ -16,7 +16,7 @@ import com.springboot.CRUDdemo.entity.Employee;
 import com.springboot.CRUDdemo.service.EmployeeService;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/employee")
 public class EmployeeRestController {
 
 	// Refactor code to use EmployeeService, comment out
